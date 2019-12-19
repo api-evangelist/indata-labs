@@ -1,0 +1,55 @@
+{
+    "name": "InData Labs",
+    "description": "InData Labs provides data science consulting, custom AI-powered software development, and data science training. Focusing on predictive analytics, natural language processing, and computer vision, we help businesses innovate with AI, enrich customer in...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28778-indatalabs-com.jpg",
+    "tags": [
+        "analytics",
+        "artificial intelligence",
+        "data",
+        "have api",
+        "machine learning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/indata-labs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "InData Labs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28778-indatalabs-com.jpg",
+            "humanURL": "https:\/\/indatalabs.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/indata-labs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/indatalabs.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/indata-labs"
+        },
+        {
+            "type": "Email",
+            "url": "info@indatalabs.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/InDataLabs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/indatalabs.com"
+        }
+    ]
+}
